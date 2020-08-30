@@ -1,4 +1,4 @@
-# Solor deployment in Singapore
+# Solar deployment in Singapore
 
 ## Introduction
 
